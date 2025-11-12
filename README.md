@@ -2,6 +2,8 @@
 
 A 3D visualization of a regulation badminton court built with Next.js and React Three Fiber.
 
+![Demo](./public/preview.gif)
+
 ## Features
 
 * Accurate court dimensions and markings
